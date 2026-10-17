@@ -155,7 +155,7 @@ python Task5_Contact_Book/contact_book_gui.py   # GUI
 
 ## Connect With Me
 
-- LinkedIn: [your-linkedin-profile-url](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [your-linkedin-profile-url](https://www.linkedin.com/in/ansh-kumar-rai-904936425/?isSelfProfile=true)
 - GitHub: [@anshkumarraix-dev](https://github.com/anshkumarraix-dev)
 
 ---
